@@ -1,0 +1,6 @@
+C:\Agustin\Aconcagua\Segundo Cuatrimestre Segundo Año\Laboratorio II\Unidad III\Operaciones\Operaciones\Operaciones\bin\Debug\Operaciones.exe
+C:\Agustin\Aconcagua\Segundo Cuatrimestre Segundo Año\Laboratorio II\Unidad III\Operaciones\Operaciones\Operaciones\bin\Debug\Operaciones.pdb
+C:\Agustin\Aconcagua\Segundo Cuatrimestre Segundo Año\Laboratorio II\Unidad III\Operaciones\Operaciones\Operaciones\obj\Debug\Operaciones.csprojAssemblyReference.cache
+C:\Agustin\Aconcagua\Segundo Cuatrimestre Segundo Año\Laboratorio II\Unidad III\Operaciones\Operaciones\Operaciones\obj\Debug\Operaciones.csproj.CoreCompileInputs.cache
+C:\Agustin\Aconcagua\Segundo Cuatrimestre Segundo Año\Laboratorio II\Unidad III\Operaciones\Operaciones\Operaciones\obj\Debug\Operaciones.exe
+C:\Agustin\Aconcagua\Segundo Cuatrimestre Segundo Año\Laboratorio II\Unidad III\Operaciones\Operaciones\Operaciones\obj\Debug\Operaciones.pdb
